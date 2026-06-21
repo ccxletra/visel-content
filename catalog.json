@@ -1,7 +1,110 @@
 {
     "schemaVersion":  1,
-    "generatedAt":  "2026-06-19T21:08:09Z",
+    "generatedAt":  "2026-06-21T07:43:32Z",
     "stories":  [
+                    {
+                        "id":  "story_18",
+                        "title":  "Pâlpâi, zmeul care nu putea adormi",
+                        "language":  "ro",
+                        "tier":  "free",
+                        "version":  1,
+                        "durationMs":  359262,
+                        "cover":  "story_18/page1.jpg",
+                        "audio":  "story_18/narration.mp3",
+                        "pages":  [
+                                      {
+                                          "page":  1,
+                                          "startMs":  0,
+                                          "endMs":  38960,
+                                          "image":  "story_18/page1.jpg",
+                                          "text":  "A fost odată, sus de tot în munți, într-o peșteră caldă căptușită cu mușchi, un zmeu mititel pe care îl chema Pâlpâi. Nu era el fioros ca zmeii din povești, ferit-a sfântul — era blând și sfios, și în loc de pălălaie scotea pe nări doar o flăcăruie mică, cât un firicel de lumânare, care pâlpâia: pâlp, pâlp. De-acolo i se trăgea și numele. Toate lighioanele muntelui dormeau duse la ceas de seară — numai Pâlpâi, în fiecare noapte, nu putea nicicum să adoarmă."
+                                      },
+                                      {
+                                          "page":  2,
+                                          "startMs":  38960,
+                                          "endMs":  71840,
+                                          "image":  "story_18/page2.jpg",
+                                          "text":  "Și nu putea, sărmanul, fiindcă se temea de întunericul cel mare. Noaptea i se părea uriașă și neagră, plină de foșnete și de umbre, iar lui i se făcea inima cât un purice. Dar cui să spună? Un zmeu, chipurile, nu se cade să se teamă de beznă — așa că Pâlpâi își ținea frica numai pentru el și ofta pe-ascuns, rușinat. Stătea treaz până târziu, cu ochii la stele, obosit și singur."
+                                      },
+                                      {
+                                          "page":  3,
+                                          "startMs":  71840,
+                                          "endMs":  97000,
+                                          "image":  "story_18/page3.jpg",
+                                          "text":  "Încercase el de toate, ca să-l fure somnul. Număra stelele — dar erau prea multe și prea departe. Sorbea rouă călduță de pe frunze. Se-nvârtea în peșteră de pe-o parte pe alta, de-un fir de păr, vâj-vâj, până amețea. Degeaba: noaptea rămânea tot mare, tot neagră, iar somnul nu venea defel."
+                                      },
+                                      {
+                                          "page":  4,
+                                          "startMs":  97000,
+                                          "endMs":  125640,
+                                          "image":  "story_18/page4.jpg",
+                                          "text":  "Într-o noapte, cum ședea el amărât la gura peșterii, zări jos, în vale, o luminiță caldă, gălbuie. Era un foc mic de păstor, iar lângă el o fetiță cu o turmă de oi — Ilinca, păstorița. Pâlpâi își întinse gâtul cel lung, curios nevoie-mare. Tare ar fi vrut să se apropie de lumina aceea prietenoasă... dar, sfios cum era, nu îndrăznea."
+                                      },
+                                      {
+                                          "page":  5,
+                                          "startMs":  125640,
+                                          "endMs":  153960,
+                                          "image":  "story_18/page5.jpg",
+                                          "text":  "Totuși, încet-încetișor, se furișă la vale și se piti după un brad. Oile, cum îl simțiră, începură să se foiască, iar cățelușul cel mic sări în lături: ham, ham! Pâlpâi, de rușine, voi să se facă nevăzut — dar de spaimă îi scăpă pe nări un pufăit: pâlp! — o flăcăruie ce-i lumină, o clipă, fața tristă și speriată."
+                                      },
+                                      {
+                                          "page":  6,
+                                          "startMs":  153960,
+                                          "endMs":  181520,
+                                          "image":  "story_18/page6.jpg",
+                                          "text":  "Ilinca, în loc să se sperie, văzu la lumina aceea numai un zmeuleț sfios, cu ochi blânzi și triști. — Nu-ți fie teamă, îi zise ea încetișor. Ce cauți tu, micuțule, treaz la ceas așa de târziu? Pâlpâi, cu glasul stins de rușine, îi mărturisi: — Nu pot... nu pot să adorm. Mi-e frică de întunericul cel mare."
+                                      },
+                                      {
+                                          "page":  7,
+                                          "startMs":  181520,
+                                          "endMs":  200587,
+                                          "image":  "story_18/page7.jpg",
+                                          "text":  "Fetița nu râse de el, nici cât negru sub unghie. — Și celor mai voinici li se face câteodată frică de întuneric, zise ea blând. Nu-i nicio rușine în asta. Hai, vino și șezi colea, lângă focușorul meu. Și-i făcu loc, prietenește, la căldură."
+                                      },
+                                      {
+                                          "page":  8,
+                                          "startMs":  200587,
+                                          "endMs":  226580,
+                                          "image":  "story_18/page8.jpg",
+                                          "text":  "Apoi Ilinca începu să-i spună din tainele ei de păstor, cu care adoarme ea oile și pe sine. — Răsuflă rar și domol, așa cum răsuflă mioarele. Ascultă cum susură pârâul la vale și cum șoptește vântul prin iarbă. Iar gândurile tale lasă-le să treacă molcom, ca norii pe cer — nu te lupta cu ele."
+                                      },
+                                      {
+                                          "page":  9,
+                                          "startMs":  226580,
+                                          "endMs":  252240,
+                                          "image":  "story_18/page9.jpg",
+                                          "text":  "— Și să nu numeri stelele, că-s prea multe și prea sus, mai zise ea zâmbind. Numără mai bine oițele mele, una câte una, cum se culcă: una... două... trei... domol de tot, ca un descântec de somn. Pâlpâi ascultă, cu urechile ciulite și cu inima mai liniștită."
+                                      },
+                                      {
+                                          "page":  10,
+                                          "startMs":  252240,
+                                          "endMs":  278053,
+                                          "image":  "story_18/page10.jpg",
+                                          "text":  "Și încercă întocmai cum îl învățase: răsuflă rar, ascultă pârâul, numără mioarele cele blânde. Răsuflarea i se domoli, umerii cei mari i se moleșiră, iar întunericul nu i se mai păru așa de mare — nu, când ai alături un prieten și o luminiță caldă. Pentru întâia oară, lui Pâlpâi i se făcu somn."
+                                      },
+                                      {
+                                          "page":  11,
+                                          "startMs":  278053,
+                                          "endMs":  303400,
+                                          "image":  "story_18/page11.jpg",
+                                          "text":  "Atunci Ilinca îi cântă, încetișor, o doină de leagăn, cum le cânta oilor în fiecare seară: — Dormi, zmeule, dormi ușor, / că muntele-i păzitor; / s-au culcat și oi, și stele, / treacă noaptea peste rele. Oile dormeau ghem, cățelul se făcuse covrig, iar muntele tăcea, ascultând."
+                                      },
+                                      {
+                                          "page":  12,
+                                          "startMs":  303400,
+                                          "endMs":  329280,
+                                          "image":  "story_18/page12.jpg",
+                                          "text":  "Pâlpâi simți, în sfârșit, cum vine somnul — cald, moale, deloc înfricoșător. Îi mulțumi Ilincăi cu o flăcăruie mică și fericită, pâlp, ca un noapte-bună. Apoi se ghemui lângă foc, iar fetița se rezemă de coasta lui caldă, și amândoi închiseră ochii sub cerul plin de stele."
+                                      },
+                                      {
+                                          "page":  13,
+                                          "startMs":  329280,
+                                          "endMs":  359262,
+                                          "image":  "story_18/page13.jpg",
+                                          "text":  "Și cum dormeau ei toți — fata, oile, cățelul — Pâlpâi mai scoase, ușurel, cea mai mică și mai blândă flăcăruie a lui. O luminiță aurie pâlpâia deasupra lor, veghind toată noaptea, ca nimeni să nu se mai teamă de întuneric. Iar zmeul cel sfios, care nu putea adormi, ajunsese tocmai el lumina cea bună ce păzește somnul tuturor."
+                                      }
+                                  ]
+                    },
                     {
                         "id":  "story_17",
                         "title":  "Plici și vadul cel iute",
