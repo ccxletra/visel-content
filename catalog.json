@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "generatedAt":  "2026-06-22T10:46:57Z",
+    "generatedAt":  "2026-06-22T11:11:05Z",
     "stories":  [
                     {
                         "id":  "story_19",
@@ -407,6 +407,108 @@
                                           "endMs":  203677,
                                           "image":  "story_22/page12.jpg",
                                           "text":  "Și adormiră amândoi, ghemuiți în culcușul moale și pufos, cu fețele senine și ochii închiși. Iar departe, la fereastra căsuței, lumânarea rămase pâlpâind blând în noapte, ca o luminiță bună ce veghează peste tot câmpul adormit."
+                                      }
+                                  ]
+                    },
+                    {
+                        "id":  "story_23",
+                        "title":  "Licurel, melcul și licuricii",
+                        "language":  "ro",
+                        "tier":  "free",
+                        "version":  1,
+                        "durationMs":  196389,
+                        "cover":  "story_23/page1.jpg",
+                        "audio":  "story_23/narration.mp3",
+                        "tags":  [
+                                     "animale",
+                                     "prietenie",
+                                     "calm"
+                                 ],
+                        "publishedAt":  "2026-06-22T00:00:00Z",
+                        "pages":  [
+                                      {
+                                          "page":  1,
+                                          "startMs":  0,
+                                          "endMs":  21400,
+                                          "image":  "story_23/page1.jpg",
+                                          "text":  "A fost odată, într-o grădină, un melcușor mititel și sfios pe care îl chema Licurel. Avea un trupșor moale, o cochilie rotundă și vărgată în spinare și două cornițe gingașe cu ochișori la capăt. Tare îi mai plăcea grădina, dar era încet, încet de tot, cel mai încet dintre toți."
+                                      },
+                                      {
+                                          "page":  2,
+                                          "startMs":  21400,
+                                          "endMs":  37439,
+                                          "image":  "story_23/page2.jpg",
+                                          "text":  "Într-o seară, pe când se plimba agale pe o frunză mare, băgă de seamă că ceilalți gândăcei se grăbeau toți spre casă. - Hai mai repede, Licurel! îi strigau ei. Dar el, oricât se silea, tot în urmă rămânea."
+                                      },
+                                      {
+                                          "page":  3,
+                                          "startMs":  37439,
+                                          "endMs":  57110,
+                                          "image":  "story_23/page3.jpg",
+                                          "text":  "Și, pe nesimțite, se lăsă noaptea peste grădină. Când privi în jur, Licurel se trezi singur-singurel pe frunza lui, în întunericul mare. Cornițele i se lăsară în jos, de fricuță. - Vai, cum am să-mi mai găsesc eu drumul pe atâta beznă? oftă el."
+                                      },
+                                      {
+                                          "page":  4,
+                                          "startMs":  57110,
+                                          "endMs":  72320,
+                                          "image":  "story_23/page4.jpg",
+                                          "text":  "Dar iată că, prin întuneric, coborî plutind o luminiță caldă și aurie: era un licurici, cu un felinăraș mititel la coadă. Se așeză binișor lângă melcușor și clipi prietenos din lumina lui."
+                                      },
+                                      {
+                                          "page":  5,
+                                          "startMs":  72320,
+                                          "endMs":  89040,
+                                          "image":  "story_23/page5.jpg",
+                                          "text":  "Și, cât ai clipi, mai veniră și alți licurici, unul după altul, până se adunară o droaie în jurul lui Licurel, luminând frunza ca niște candele plutitoare. Întunericul nu mai era deloc înfricoșător, ci se umpluse de luminițe blânde."
+                                      },
+                                      {
+                                          "page":  6,
+                                          "startMs":  89040,
+                                          "endMs":  106240,
+                                          "image":  "story_23/page6.jpg",
+                                          "text":  "- Nu te teme, melcușorule, parcă-i spuneau licuricii. Mergi tu cât de încet poftești, că noi îți luminăm calea. Și Licurel porni la drum, agale, agale, iar licuricii pluteau alături, presărându-i cărarea cu lumină."
+                                      },
+                                      {
+                                          "page":  7,
+                                          "startMs":  106240,
+                                          "endMs":  121240,
+                                          "image":  "story_23/page7.jpg",
+                                          "text":  "Așa trecură împreună peste frunze mari și peste broboane de rouă ce sclipeau ca niște mărgele. Licuricii zburau în jurul lui ca un șirag de lampioane, iar grădina nopții se făcuse o lume de basm."
+                                      },
+                                      {
+                                          "page":  8,
+                                          "startMs":  121240,
+                                          "endMs":  135600,
+                                          "image":  "story_23/page8.jpg",
+                                          "text":  "Încet-încetul, lui Licurel îi pieri toată teama. Mergea zâmbind prin noapte, înconjurat de luminițe calde, și se gândea că nu-i nimic rău în a fi cel mai încet, dacă ai prieteni buni alături."
+                                      },
+                                      {
+                                          "page":  9,
+                                          "startMs":  135600,
+                                          "endMs":  148700,
+                                          "image":  "story_23/page9.jpg",
+                                          "text":  "Și, pas cu pas, ajunse în sfârșit la culcușul lui: o scorbură mică și moale, la rădăcina unei flori de noapte. Licuricii se roteau blând în jur, luminând adăpostul cald."
+                                      },
+                                      {
+                                          "page":  10,
+                                          "startMs":  148700,
+                                          "endMs":  162520,
+                                          "image":  "story_23/page10.jpg",
+                                          "text":  "Licurel se cuibări mulțumit în culcușul lui de mușchi, sub petalele florii. Cornițele i se moleșiră, iar pleoapele i se făcură grele de somn, în vreme ce licuricii pâlpâiau domol pe-aproape."
+                                      },
+                                      {
+                                          "page":  11,
+                                          "startMs":  162520,
+                                          "endMs":  178000,
+                                          "image":  "story_23/page11.jpg",
+                                          "text":  "Strâns ghemuit în cochilia lui caldă, melcușorul închise ochișorii pe jumătate. Deasupra, pe o frunză largă, licuricii se așezară la rând, lucind moale și cald, ca o salbă de candele."
+                                      },
+                                      {
+                                          "page":  12,
+                                          "startMs":  178000,
+                                          "endMs":  196389,
+                                          "image":  "story_23/page12.jpg",
+                                          "text":  "Și adormi Licurel, cuibărit în cochilie, cu chipul senin și ochișorii închiși. Iar sus, pe frunză, licuricii rămaseră să lumineze blând, ca niște felinare mici de aur, veghind somnul melcușorului până se va lumina de ziuă."
                                       }
                                   ]
                     },
