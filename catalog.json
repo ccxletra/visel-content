@@ -1,7 +1,109 @@
 {
     "schemaVersion":  1,
-    "generatedAt":  "2026-06-21T20:52:33Z",
+    "generatedAt":  "2026-06-22T07:18:25Z",
     "stories":  [
+                    {
+                        "id":  "story_19",
+                        "title":  "Ariciul și felinarul",
+                        "language":  "ro",
+                        "tier":  "free",
+                        "version":  1,
+                        "durationMs":  314697,
+                        "cover":  "story_19/page1.jpg",
+                        "audio":  "story_19/narration.mp3",
+                        "tags":  [
+                                     "animale",
+                                     "natura",
+                                     "calm"
+                                 ],
+                        "publishedAt":  "2026-06-22T00:00:00Z",
+                        "pages":  [
+                                      {
+                                          "page":  1,
+                                          "startMs":  0,
+                                          "endMs":  31640,
+                                          "image":  "story_19/page1.jpg",
+                                          "text":  "A fost odată, într-o pădure de toamnă, un arici mititel și sfios pe care toți îl strigau Ghemuleț. Era cât un ghemotoc de lână, cu botișorul negru și cu ochii ca două boabe de mure. Tare îi mai plăcea lui pădurea când era zi: ronțăia mere pădurețe, se juca prin frunzele ruginii și aduna ciupercuțe. Dar, vai, cum se lăsa seara, lui Ghemuleț i se făcea inima cât un purice - căci se temea, sărmanul, de întuneric."
+                                      },
+                                      {
+                                          "page":  2,
+                                          "startMs":  31640,
+                                          "endMs":  62680,
+                                          "image":  "story_19/page2.jpg",
+                                          "text":  "Într-o după-amiază aurie, Ghemuleț se afundă tot mai departe printre copaci, după cele mai dulci mere pădurețe. Le aduna unul câte unul, fără să bage de seamă cum coboară soarele. Când își ridică, în sfârșit, botișorul, pădurea se făcuse cenușie, apoi albastră, apoi neagră de tot. Frunzele foșneau: foș, foș. Iar bietul arici nu mai știa nicicum pe unde s-o apuce spre casă."
+                                      },
+                                      {
+                                          "page":  3,
+                                          "startMs":  62680,
+                                          "endMs":  85540,
+                                          "image":  "story_19/page3.jpg",
+                                          "text":  "- Vai de mine și de mine, șopti Ghemuleț, ghemuindu-se lângă o rădăcină. M-am rătăcit, și e atâta întuneric! Fiecare umbră i se părea o dihanie, fiecare foșnet, o primejdie. Își strânse țepii ghem-ghemuleț, cum îi era și numele, și ofta încetișor, gata-gata să-i dea lacrimile."
+                                      },
+                                      {
+                                          "page":  4,
+                                          "startMs":  85540,
+                                          "endMs":  111620,
+                                          "image":  "story_19/page4.jpg",
+                                          "text":  "Dar iată că, printre copaci, se ivi o luminiță caldă, gălbuie, legănându-se domol: pâș, pâș. Era un felinar - iar felinarul îl ducea Moș Bursuc, un bursuc bătrân, cu blana căruntă și cu ochii blânzi. În fiecare noapte el cutreiera pădurea cu felinarul lui, ca un paznic bun, să vadă de toate lighioanele mici."
+                                      },
+                                      {
+                                          "page":  5,
+                                          "startMs":  111620,
+                                          "endMs":  134960,
+                                          "image":  "story_19/page5.jpg",
+                                          "text":  "- Cine plânge colea, prin frunze? întrebă Moș Bursuc cu glas cald. Ghemuleț ridică botișorul în lumina felinarului. - Eu sunt, Ghemuleț... m-am rătăcit și mi-e tare frică de întuneric, mărturisi el, rușinat. Bursucul nu râse de el nici cât negru sub unghie, ci se așeză binișor alături."
+                                      },
+                                      {
+                                          "page":  6,
+                                          "startMs":  134960,
+                                          "endMs":  158239,
+                                          "image":  "story_19/page6.jpg",
+                                          "text":  "- Nu-i nicio rușine, micuțule, zise Moș Bursuc. Și celor voinici li se face câteodată frică de întuneric. Dar ia spune-mi: ai privit tu vreodată noaptea cu adevărat? Hai cu mine, la lumina felinarului, și-ai să vezi că noaptea nu-i deloc rea - e blândă și liniștită, ca o plapumă peste pădure."
+                                      },
+                                      {
+                                          "page":  7,
+                                          "startMs":  158239,
+                                          "endMs":  181867,
+                                          "image":  "story_19/page7.jpg",
+                                          "text":  "Și porniră amândoi, alături, prin pădurea adormită. Felinarul arunca în jur un cerc de lumină caldă, iar întunericul nu mai părea așa de mare. - Vezi? șopti bursucul. Întunericul nu te înghite - el doar doarme, ca toți ceilalți. Ghemuleț pășea mai cu inimă, lipit de blana caldă a moșneagului."
+                                      },
+                                      {
+                                          "page":  8,
+                                          "startMs":  181867,
+                                          "endMs":  207307,
+                                          "image":  "story_19/page8.jpg",
+                                          "text":  "Pe drum, bursucul îi arătă câte minunății ascunde noaptea. - Privește: luna stă de strajă, blândă, ca un felinar mare pe cer. Bufnița clipește prietenos din scorbura ei, iar licuricii își aprind felinarele lor mititele prin iarbă. Toți veghează unii asupra altora. Noaptea-i plină de prieteni, nu de primejdii."
+                                      },
+                                      {
+                                          "page":  9,
+                                          "startMs":  207307,
+                                          "endMs":  233080,
+                                          "image":  "story_19/page9.jpg",
+                                          "text":  "Ghemuleț asculta cu urechile ciulite și cu inima tot mai liniștită. Un iepuraș le ură noapte bună din mers, o căprioară îi privi cu ochi blânzi din desiș. - Vezi, micuțule? zâmbi Moș Bursuc. Toți dorm liniștiți sub același cer. Întunericul nu-i decât odihna pădurii. Aricelul răsuflă ușurat și nu se mai temu."
+                                      },
+                                      {
+                                          "page":  10,
+                                          "startMs":  233080,
+                                          "endMs":  258293,
+                                          "image":  "story_19/page10.jpg",
+                                          "text":  "Așa, povestind și pășind, ajunseră la vizuina cea caldă a bursucului, căptușită cu mușchi și cu frunze moi. - Hai înăuntru, la adăpost, îl pofti moșneagul. E prea departe și prea târziu să te duci acasă astă-noapte. Mâine, la lumina zilei, te-oi petrece eu până la culcușul tău. Ghemuleț se cuibări recunoscător în frunzișul cald."
+                                      },
+                                      {
+                                          "page":  11,
+                                          "startMs":  258293,
+                                          "endMs":  286880,
+                                          "image":  "story_19/page11.jpg",
+                                          "text":  "Moș Bursuc atârnă felinarul într-un cui, lângă culcuș, și se întinse domol. - Acum închide ochișorii, micuțule, și ascultă cum răsuflă pădurea. Răsuflă rar, ca licuricii care pâlpâie: încet... și iar încet. Afară, vântul șoptea prin frunze o doină de leagăn, iar lumina blândă a felinarului juca pe pereții vizuinei."
+                                      },
+                                      {
+                                          "page":  12,
+                                          "startMs":  286880,
+                                          "endMs":  314697,
+                                          "image":  "story_19/page12.jpg",
+                                          "text":  "Și, pentru întâia oară, lui Ghemuleț i se făcu somn fără frică. Se ghemui lângă coasta caldă a bătrânului bursuc și amândoi închiseră ochii sub frunzișul moale. Toată pădurea dormea liniștită, iar felinarul cel cald veghea alături, pâlpâind ușor, ca o luminiță bună ce păzește somnul tuturor și care le spune că noaptea, iată, e blândă."
+                                      }
+                                  ]
+                    },
                     {
                         "id":  "story_18",
                         "title":  "Pâlpâi, zmeul care nu putea adormi",
