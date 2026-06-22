@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "generatedAt":  "2026-06-22T09:50:16Z",
+    "generatedAt":  "2026-06-22T10:17:55Z",
     "stories":  [
                     {
                         "id":  "story_19",
@@ -203,6 +203,108 @@
                                           "endMs":  214073,
                                           "image":  "story_20/page12.jpg",
                                           "text":  "Pe nesimțite, privighetoarea adormi lipită de el. Iar Huțu, împăcat în sfârșit, privi sus, pe cer, unde o steluță mică și aurie pâlpâia blând, ca un felinar pus de strajă. Îi veghea pe amândoi, iar ochii lui se închideau încet, încet, în vreme ce steluța rămase să lumineze somnul tuturor."
+                                      }
+                                  ]
+                    },
+                    {
+                        "id":  "story_21",
+                        "title":  "Ursulețul și lacul lunii",
+                        "language":  "ro",
+                        "tier":  "free",
+                        "version":  1,
+                        "durationMs":  211096,
+                        "cover":  "story_21/page1.jpg",
+                        "audio":  "story_21/narration.mp3",
+                        "tags":  [
+                                     "animale",
+                                     "aventura",
+                                     "natura"
+                                 ],
+                        "publishedAt":  "2026-06-22T00:00:00Z",
+                        "pages":  [
+                                      {
+                                          "page":  1,
+                                          "startMs":  0,
+                                          "endMs":  21813,
+                                          "image":  "story_21/page1.jpg",
+                                          "text":  "A fost odată, în munte, într-o vizuină caldă și moale de mușchi, un ursuleț pe care îl chema Brumel. Era rotund și pufos, cu blana ca mierea și cu ochii mari și blânzi. Toți puii pădurii dormeau duși, dar Brumel se foia și se răsucea, că somnul nu venea nicicum."
+                                      },
+                                      {
+                                          "page":  2,
+                                          "startMs":  21813,
+                                          "endMs":  36587,
+                                          "image":  "story_21/page2.jpg",
+                                          "text":  "Se ridică în capul oaselor, își frecă un ochi cu lăbuța și oftă adânc. Afară, pădurea de brad foșnea încetișor, iar prin gura vizuinii se zărea o fâșie de cer înstelat."
+                                      },
+                                      {
+                                          "page":  3,
+                                          "startMs":  36587,
+                                          "endMs":  57520,
+                                          "image":  "story_21/page3.jpg",
+                                          "text":  "Brumel se târî până la marginea vizuinii și privi în sus. Dar, ce minune, luna nu mai era pe cer! Numai stelele clipeau, mărunte, iar locul lunii rămăsese gol. - Unde s-o fi dus luna? se miră ursulețul, cu inima strânsă."
+                                      },
+                                      {
+                                          "page":  4,
+                                          "startMs":  57520,
+                                          "endMs":  78040,
+                                          "image":  "story_21/page4.jpg",
+                                          "text":  "Își luă inima în dinți și ieși tiptil pe cărarea scăldată odinioară în lumina lunii. Tocmai atunci, dintr-un scorbur de copac, scoase capul o veveriță sprintenă, cu coada stufoasă: era Codiță. - Încotro, Brumel, așa singur prin noapte? întrebă ea."
+                                      },
+                                      {
+                                          "page":  5,
+                                          "startMs":  78040,
+                                          "endMs":  94400,
+                                          "image":  "story_21/page5.jpg",
+                                          "text":  "- Caut luna, că a pierit de pe cer, îi spuse ursulețul. - Atunci viu și eu cu tine, zise Codiță voioasă. Și porniră amândoi, alături, prin pădurea adormită, sub crengile pline de stele."
+                                      },
+                                      {
+                                          "page":  6,
+                                          "startMs":  94400,
+                                          "endMs":  114000,
+                                          "image":  "story_21/page6.jpg",
+                                          "text":  "Merseră ce merseră, până ajunseră la malul unui lac de munte, liniștit ca o oglindă. Și ce să vezi? Acolo, în apa lină, strălucea luna, rotundă și argintie! - Uite-o! strigă Brumel. A căzut luna în lac!"
+                                      },
+                                      {
+                                          "page":  7,
+                                          "startMs":  114000,
+                                          "endMs":  137760,
+                                          "image":  "story_21/page7.jpg",
+                                          "text":  "Codiță chicoti și-l trase de lăbuță. - Ia privește mai sus, Brumel! Și ursulețul ridică ochii: sus, pe cer, luna cea adevărată tocmai ieșea de după un nor moale, iar în apă nu era decât chipul ei oglindit. - Va să zică nu s-a pierdut deloc, șopti el, ușurat."
+                                      },
+                                      {
+                                          "page":  8,
+                                          "startMs":  137760,
+                                          "endMs":  152360,
+                                          "image":  "story_21/page8.jpg",
+                                          "text":  "Se așezară amândoi pe un mal moale de mușchi, la marginea lacului, și priviră cum lumina argintie tremura blând pe unde. Era atâta liniște, încât se auzea doar răsuflarea pădurii."
+                                      },
+                                      {
+                                          "page":  9,
+                                          "startMs":  152360,
+                                          "endMs":  165480,
+                                          "image":  "story_21/page9.jpg",
+                                          "text":  "Încet-încet, lui Brumel i se făcură pleoapele grele. Se rezemă de Codiță, cald și împăcat, simțind cum frica și neliniștea se topesc ca bruma în lumina lunii."
+                                      },
+                                      {
+                                          "page":  10,
+                                          "startMs":  165480,
+                                          "endMs":  177720,
+                                          "image":  "story_21/page10.jpg",
+                                          "text":  "Cei doi prieteni se cuibăriră mai bine în mușchiul moale, gata de culcare, sub cerul plin de stele și lângă lacul tăcut. Vântul îi mângâia ușurel."
+                                      },
+                                      {
+                                          "page":  11,
+                                          "startMs":  177720,
+                                          "endMs":  191760,
+                                          "image":  "story_21/page11.jpg",
+                                          "text":  "Codiță se făcu covrig, cu coada stufoasă peste năsuc, iar Brumel se întinse alături, legănat de clipocitul mărunt al apei. Luna lumina blând peste lacul liniștit."
+                                      },
+                                      {
+                                          "page":  12,
+                                          "startMs":  191760,
+                                          "endMs":  211096,
+                                          "image":  "story_21/page12.jpg",
+                                          "text":  "Și adormiră amândoi, ghemuiți unul lângă altul în mușchiul cald, cu fețele senine și ochii închiși. Pe lac, luna argintie rămase oglindită, ca un felinar blând pus de strajă, veghind somnul ursulețului și al veveriței până în zori."
                                       }
                                   ]
                     },
