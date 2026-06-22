@@ -1,13 +1,13 @@
 {
     "schemaVersion":  1,
-    "generatedAt":  "2026-06-22T07:18:25Z",
+    "generatedAt":  "2026-06-22T07:47:28Z",
     "stories":  [
                     {
                         "id":  "story_19",
                         "title":  "Ariciul și felinarul",
                         "language":  "ro",
                         "tier":  "free",
-                        "version":  1,
+                        "version":  2,
                         "durationMs":  314697,
                         "cover":  "story_19/page1.jpg",
                         "audio":  "story_19/narration.mp3",
