@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "generatedAt":  "2026-06-22T10:17:55Z",
+    "generatedAt":  "2026-06-22T10:46:57Z",
     "stories":  [
                     {
                         "id":  "story_19",
@@ -305,6 +305,108 @@
                                           "endMs":  211096,
                                           "image":  "story_21/page12.jpg",
                                           "text":  "Și adormiră amândoi, ghemuiți unul lângă altul în mușchiul cald, cu fețele senine și ochii închiși. Pe lac, luna argintie rămase oglindită, ca un felinar blând pus de strajă, veghind somnul ursulețului și al veveriței până în zori."
+                                      }
+                                  ]
+                    },
+                    {
+                        "id":  "story_22",
+                        "title":  "Șoricelul și lumânarea",
+                        "language":  "ro",
+                        "tier":  "free",
+                        "version":  1,
+                        "durationMs":  203677,
+                        "cover":  "story_22/page1.jpg",
+                        "audio":  "story_22/narration.mp3",
+                        "tags":  [
+                                     "animale",
+                                     "aventura",
+                                     "prietenie"
+                                 ],
+                        "publishedAt":  "2026-06-22T00:00:00Z",
+                        "pages":  [
+                                      {
+                                          "page":  1,
+                                          "startMs":  0,
+                                          "endMs":  19800,
+                                          "image":  "story_22/page1.jpg",
+                                          "text":  "A fost odată, la marginea unui sat, un șoricel de câmp pe care îl chema Rotofei. Era rotund și pufos, cu blăniță sură, urechi roz și o codiță lungă și subțire. Locuia într-o vizuină mică, săpată sub un mușuroi, la marginea unui lan de grâu proaspăt secerat."
+                                      },
+                                      {
+                                          "page":  2,
+                                          "startMs":  19800,
+                                          "endMs":  34800,
+                                          "image":  "story_22/page2.jpg",
+                                          "text":  "Într-o seară, Rotofei ieși la strânsură, căci se apropia iarna. Aduna boabe de grâu și semințe, una câte una, și-și umplea bucuțele rotunde, hărnicuț, fără să bage de seamă cum se lasă întunericul."
+                                      },
+                                      {
+                                          "page":  3,
+                                          "startMs":  34800,
+                                          "endMs":  52320,
+                                          "image":  "story_22/page3.jpg",
+                                          "text":  "Când își ridică, în sfârșit, năsucul dintre snopii de paie, se trezi că soarele apusese de mult. Câmpul cu paie se făcuse negru, iar lui Rotofei i se strânse inimioara. - Vai, ce târziu s-a făcut! șopti el."
+                                      },
+                                      {
+                                          "page":  4,
+                                          "startMs":  52320,
+                                          "endMs":  68280,
+                                          "image":  "story_22/page4.jpg",
+                                          "text":  "Și, cum se uita în dreapta și-n stânga, toate căpițele i se păreau la fel. Nu mai știa nicidecum încotro îi este vizuina. Lanul i se părea acum nesfârșit și pustiu, iar șoricelul rămase mititel și speriat în mijlocul lui."
+                                      },
+                                      {
+                                          "page":  5,
+                                          "startMs":  68280,
+                                          "endMs":  86320,
+                                          "image":  "story_22/page5.jpg",
+                                          "text":  "Tocmai atunci, din iarba de la margine, se auzi un cântec subțirel: cri-cri, cri-cri. Era un greieraș verde și prietenos, pe nume Țârâi. - Ce stai așa amărât, micuțule? îl întrebă greierul, săltând vesel din antene."
+                                      },
+                                      {
+                                          "page":  6,
+                                          "startMs":  86320,
+                                          "endMs":  101620,
+                                          "image":  "story_22/page6.jpg",
+                                          "text":  "- M-am rătăcit și nu-mi mai găsesc casa, oftă Rotofei. - Stai liniștit, zise Țârâi, lăsându-se pe gânduri. Cred că știu eu cum s-o găsim. Și greierul își ciuli antenele, cu un zâmbet poznaș."
+                                      },
+                                      {
+                                          "page":  7,
+                                          "startMs":  101620,
+                                          "endMs":  124320,
+                                          "image":  "story_22/page7.jpg",
+                                          "text":  "Hop! sări Țârâi în vârful unei căpițe înalte și privi în zare. Departe, tocmai la marginea câmpului, pâlpâia o luminiță caldă și gălbuie: era o lumânare, aprinsă la fereastra unei căsuțe. - Uite-acolo! strigă greierul. O luminiță! Pe acolo trebuie să fie satul."
+                                      },
+                                      {
+                                          "page":  8,
+                                          "startMs":  124320,
+                                          "endMs":  135160,
+                                          "image":  "story_22/page8.jpg",
+                                          "text":  "Și porniră amândoi, alături, pe o cărăruie subțire prin miriște, ținându-se mereu spre luminița aceea blândă, ce-i chema din depărtare ca un far mititel."
+                                      },
+                                      {
+                                          "page":  9,
+                                          "startMs":  135160,
+                                          "endMs":  148960,
+                                          "image":  "story_22/page9.jpg",
+                                          "text":  "Răsărise între timp și luna, argintând tot câmpul. Mergeau voinicește, greierul și șoricelul, iar lumânarea de la fereastră creștea încet-încet, tot mai aproape și tot mai caldă."
+                                      },
+                                      {
+                                          "page":  10,
+                                          "startMs":  148960,
+                                          "endMs":  165080,
+                                          "image":  "story_22/page10.jpg",
+                                          "text":  "Și iată că Rotofei își zări, în sfârșit, mușuroiul cunoscut, chiar lângă căsuța cu fereastra luminată! Bucuros nevoie mare, îl pofti pe Țârâi înăuntru: - Hai la mine, prietene, că afară-i răcoare!"
+                                      },
+                                      {
+                                          "page":  11,
+                                          "startMs":  165080,
+                                          "endMs":  183600,
+                                          "image":  "story_22/page11.jpg",
+                                          "text":  "În vizuina caldă, cu pereții căptușiți cu provizii de iarnă, cei doi împărțiră frățește un bob de grâu și o sămânță dulce. Apoi greierul îi cântă lui Rotofei un cântec de leagăn, subțire și cald: cri-cri, dormi ușor..."
+                                      },
+                                      {
+                                          "page":  12,
+                                          "startMs":  183600,
+                                          "endMs":  203677,
+                                          "image":  "story_22/page12.jpg",
+                                          "text":  "Și adormiră amândoi, ghemuiți în culcușul moale și pufos, cu fețele senine și ochii închiși. Iar departe, la fereastra căsuței, lumânarea rămase pâlpâind blând în noapte, ca o luminiță bună ce veghează peste tot câmpul adormit."
                                       }
                                   ]
                     },
