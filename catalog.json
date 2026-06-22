@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "generatedAt":  "2026-06-22T07:47:28Z",
+    "generatedAt":  "2026-06-22T09:50:16Z",
     "stories":  [
                     {
                         "id":  "story_19",
@@ -101,6 +101,108 @@
                                           "endMs":  314697,
                                           "image":  "story_19/page12.jpg",
                                           "text":  "Și, pentru întâia oară, lui Ghemuleț i se făcu somn fără frică. Se ghemui lângă coasta caldă a bătrânului bursuc și amândoi închiseră ochii sub frunzișul moale. Toată pădurea dormea liniștită, iar felinarul cel cald veghea alături, pâlpâind ușor, ca o luminiță bună ce păzește somnul tuturor și care le spune că noaptea, iată, e blândă."
+                                      }
+                                  ]
+                    },
+                    {
+                        "id":  "story_20",
+                        "title":  "Bufnița și steluța",
+                        "language":  "ro",
+                        "tier":  "free",
+                        "version":  1,
+                        "durationMs":  214073,
+                        "cover":  "story_20/page1.jpg",
+                        "audio":  "story_20/narration.mp3",
+                        "tags":  [
+                                     "animale",
+                                     "calm",
+                                     "natura"
+                                 ],
+                        "publishedAt":  "2026-06-22T00:00:00Z",
+                        "pages":  [
+                                      {
+                                          "page":  1,
+                                          "startMs":  0,
+                                          "endMs":  23787,
+                                          "image":  "story_20/page1.jpg",
+                                          "text":  "A fost odată, într-un stejar bătrân de la marginea pădurii, un pui de bufniță pe care îl chema Huțu. Era rotund și pufos, cu doi ochi mari, aurii, ca două felinare mici. Ziua dormea dus, dar noaptea, când pădurea se făcea neagră și tăcută, lui Huțu i se cuibărea în piept o neliniște și nu-și găsea somnul nicicum."
+                                      },
+                                      {
+                                          "page":  2,
+                                          "startMs":  23787,
+                                          "endMs":  43360,
+                                          "image":  "story_20/page2.jpg",
+                                          "text":  "Se ghemuia lângă trunchiul cald al stejarului, mititel, și privea cu ochii cât cepele bezna din jur. Fiecare frunză care foșnea i se părea o nălucă, fiecare umbră, o primejdie. - Vai, ce întuneric mare, șoptea el, tremurând în pene."
+                                      },
+                                      {
+                                          "page":  3,
+                                          "startMs":  43360,
+                                          "endMs":  58200,
+                                          "image":  "story_20/page3.jpg",
+                                          "text":  "Și așa stătea singur-singurel pe creanga lui, cu inima bătându-i ca o tobă mică. Luna abia se zărea printre ramuri, iar lui Huțu i se făcuse tare urât și tare lehamite de noaptea aceea fără sfârșit."
+                                      },
+                                      {
+                                          "page":  4,
+                                          "startMs":  58200,
+                                          "endMs":  78427,
+                                          "image":  "story_20/page4.jpg",
+                                          "text":  "Dar iată că, fâl-fâl, se așeză lângă el o păsărică sprintenă, cu pieptul ruginiu și cu ochi blânzi: era Doina, privighetoarea pădurii. - Ce te-a apucat, micuțule, de stai așa speriat? îl întrebă ea cu glas dulce, și începu să-i cânte încetișor, ca să-l aline."
+                                      },
+                                      {
+                                          "page":  5,
+                                          "startMs":  78427,
+                                          "endMs":  96987,
+                                          "image":  "story_20/page5.jpg",
+                                          "text":  "Apoi îl luă cu binișorul și-l duse sus, tocmai în vârful stejarului, deasupra coroanelor. - Vino, Huțu, să-ți arăt ceva, îi spuse Doina. De acolo, de sus, se vedea tot cerul, larg și albastru, presărat cu mii de stele."
+                                      },
+                                      {
+                                          "page":  6,
+                                          "startMs":  96987,
+                                          "endMs":  116960,
+                                          "image":  "story_20/page6.jpg",
+                                          "text":  "Stăteau amândoi pe creangă și priveau în tăcere. - Vezi? șopti Doina, arătând cu aripa spre înalt. Noaptea nu-i o gură neagră care înghite, ci o plapumă moale, plină de luminițe. Huțu se uită în sus, și ochii lui mari se umplură de mirare."
+                                      },
+                                      {
+                                          "page":  7,
+                                          "startMs":  116960,
+                                          "endMs":  135520,
+                                          "image":  "story_20/page7.jpg",
+                                          "text":  "- Acum ascultă, îl învăță privighetoarea, lipindu-se de el. Trage aerul rar, așa, și ascultă cum răsuflă pădurea. Huțu închise puțin ochii și trase aer adânc: o dată, și încă o dată, tot mai liniștit."
+                                      },
+                                      {
+                                          "page":  8,
+                                          "startMs":  135520,
+                                          "endMs":  148520,
+                                          "image":  "story_20/page8.jpg",
+                                          "text":  "Și, cum ședeau ei umăr la umăr pe creangă, frica se topi încet-încet, ca bruma în zori. Pădurea nu mai părea înfricoșătoare, ci caldă și prietenoasă, plină de șoapte blânde."
+                                      },
+                                      {
+                                          "page":  9,
+                                          "startMs":  148520,
+                                          "endMs":  161880,
+                                          "image":  "story_20/page9.jpg",
+                                          "text":  "Lui Huțu i se făcură pleoapele grele ca două petale. Se cuibări mai aproape de Doina, cu pieptul lui pufos legănându-se domol, simțindu-se, pentru întâia oară, în deplină siguranță."
+                                      },
+                                      {
+                                          "page":  10,
+                                          "startMs":  161880,
+                                          "endMs":  174507,
+                                          "image":  "story_20/page10.jpg",
+                                          "text":  "Cei doi prieteni se așezară mai bine pe creanga lor, gata de culcare, sub cerul plin de stele. Vântul îi mângâia ușor, iar stejarul îi ținea la adăpost în brațele lui bătrâne."
+                                      },
+                                      {
+                                          "page":  11,
+                                          "startMs":  174507,
+                                          "endMs":  190400,
+                                          "image":  "story_20/page11.jpg",
+                                          "text":  "Atunci Doina îi cântă lui Huțu un cântec de leagăn, subțirel și cald, cum numai privighetorile știu. - Dormi, puiule, dormi ușor, îi cânta ea, că noaptea-i bună și te-am vegheat cu drag."
+                                      },
+                                      {
+                                          "page":  12,
+                                          "startMs":  190400,
+                                          "endMs":  214073,
+                                          "image":  "story_20/page12.jpg",
+                                          "text":  "Pe nesimțite, privighetoarea adormi lipită de el. Iar Huțu, împăcat în sfârșit, privi sus, pe cer, unde o steluță mică și aurie pâlpâia blând, ca un felinar pus de strajă. Îi veghea pe amândoi, iar ochii lui se închideau încet, încet, în vreme ce steluța rămase să lumineze somnul tuturor."
                                       }
                                   ]
                     },
