@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "generatedAt":  "2026-06-22T11:11:05Z",
+    "generatedAt":  "2026-06-22T16:23:54Z",
     "stories":  [
                     {
                         "id":  "story_19",
@@ -109,7 +109,7 @@
                         "title":  "Bufnița și steluța",
                         "language":  "ro",
                         "tier":  "free",
-                        "version":  1,
+                        "version":  2,
                         "durationMs":  214073,
                         "cover":  "story_20/page1.jpg",
                         "audio":  "story_20/narration.mp3",
