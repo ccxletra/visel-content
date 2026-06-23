@@ -1,7 +1,109 @@
 {
     "schemaVersion":  1,
-    "generatedAt":  "2026-06-22T16:23:54Z",
+    "generatedAt":  "2026-06-23T07:44:31Z",
     "stories":  [
+                    {
+                        "id":  "story_24",
+                        "title":  "Vulpița și zmeul de hârtie",
+                        "language":  "ro",
+                        "tier":  "free",
+                        "version":  1,
+                        "durationMs":  201012,
+                        "cover":  "story_24/page1.jpg",
+                        "audio":  "story_24/narration.mp3",
+                        "tags":  [
+                                     "aventura",
+                                     "animale",
+                                     "natura"
+                                 ],
+                        "publishedAt":  "2026-06-23T00:00:00Z",
+                        "pages":  [
+                                      {
+                                          "page":  1,
+                                          "startMs":  0,
+                                          "endMs":  21360,
+                                          "image":  "story_24/page1.jpg",
+                                          "text":  "Într-o dimineață însorită de vară, o vulpiță mică și jucăușă pe nume Rița alerga prin iarba caldă a unei coline verzi. Deodată, ce să vadă? Prins într-un tufiș de margarete stătea un zmeu de hârtie, roșu ca macul, cu o coadă lungă din petice colorate. Rița se opri cu ochii mari de mirare."
+                                      },
+                                      {
+                                          "page":  2,
+                                          "startMs":  21360,
+                                          "endMs":  38453,
+                                          "image":  "story_24/page2.jpg",
+                                          "text":  "Vulpița apucă sfoara în lăbuțe și o luă la fugă, dar zmeul doar se târa prin iarbă, fâșâind. Oricât se silea, nu voia nicidecum să zboare. - Of, de ce nu te ridici? se miră Rița, suflând o șuviță de blăniță de pe năsuc."
+                                      },
+                                      {
+                                          "page":  3,
+                                          "startMs":  38453,
+                                          "endMs":  55440,
+                                          "image":  "story_24/page3.jpg",
+                                          "text":  "Atunci, dintr-un cer albastru, coborî în zbor o rândunică sprintenă, cu pene negre-albăstrii și o codiță în furculiță. - Te ajut eu, vulpițo! ciripi ea voioasă. Trebuie doar să lași vântul să-l prindă. O chema Codiță."
+                                      },
+                                      {
+                                          "page":  4,
+                                          "startMs":  55440,
+                                          "endMs":  72040,
+                                          "image":  "story_24/page4.jpg",
+                                          "text":  "Împreună urcară pe creasta colinei, unde adia un vântuleț cald. De acolo, de sus, toată pajiștea se întindea aurie și largă, presărată cu maci roșii și fluturi gălbui. Rița privea totul cu sufletul la gură."
+                                      },
+                                      {
+                                          "page":  5,
+                                          "startMs":  72040,
+                                          "endMs":  90120,
+                                          "image":  "story_24/page5.jpg",
+                                          "text":  "- Acum aleargă cu fața la vânt! o îndemnă Codiță. Rița o zbughi la vale, ținând sfoara strâns, iar vântul se vârî sub aripile de hârtie. Și, dintr-odată, zmeul se ridică, se ridică, tot mai sus pe cerul albastru!"
+                                      },
+                                      {
+                                          "page":  6,
+                                          "startMs":  90120,
+                                          "endMs":  104200,
+                                          "image":  "story_24/page6.jpg",
+                                          "text":  "Vulpița chiui de bucurie, ținând sfoara cu amândouă lăbuțele, în vreme ce zmeul dansa sus, pe vânt. Codiță se rotea în jurul lui, făcând tumbe vesele prin aer. Ce zi minunată!"
+                                      },
+                                      {
+                                          "page":  7,
+                                          "startMs":  104200,
+                                          "endMs":  119307,
+                                          "image":  "story_24/page7.jpg",
+                                          "text":  "Dar iată că un vânt mai zburdalnic smuci sfoara, iar zmeul porni razna peste colină. - După el! strigă Rița, râzând, și o luară amândoi la goană prin iarba înaltă, sărind peste un pârâiaș sclipitor."
+                                      },
+                                      {
+                                          "page":  8,
+                                          "startMs":  119307,
+                                          "endMs":  133440,
+                                          "image":  "story_24/page8.jpg",
+                                          "text":  "Pe drum se întâlniră cu un arici și un iepuraș. - Pe-acolo a zburat! arătară ei cu lăbuțele spre un măr înflorit. Rița le mulțumi din fugă și alergă mai departe, cu Codiță zburând deasupra."
+                                      },
+                                      {
+                                          "page":  9,
+                                          "startMs":  133440,
+                                          "endMs":  148773,
+                                          "image":  "story_24/page9.jpg",
+                                          "text":  "Zmeul se prinsese binișor în crengile mărului, printre florile albe. Codiță se înălță iute și îl desprinse cu ciocul, iar Rița apucă din nou sfoara. - L-am găsit! râse ea, ușurată și fericită."
+                                      },
+                                      {
+                                          "page":  10,
+                                          "startMs":  148773,
+                                          "endMs":  163253,
+                                          "image":  "story_24/page10.jpg",
+                                          "text":  "Soarele cobora acum spre asfințit, poleind pajiștea cu aur și trandafiriu. Mai înălțară zmeul o dată, în lumina blândă a serii, iar el plutea domol, ca o pasăre liniștită deasupra colinei."
+                                      },
+                                      {
+                                          "page":  11,
+                                          "startMs":  163253,
+                                          "endMs":  179260,
+                                          "image":  "story_24/page11.jpg",
+                                          "text":  "Obosiți și mulțumiți, traseră zmeul înapoi și se așezară alături în iarba caldă, pe creasta colinei. Cerul se făcuse roz și auriu, iar departe, la o căsuță, se aprinse un felinar cald, mic și galben."
+                                      },
+                                      {
+                                          "page":  12,
+                                          "startMs":  179260,
+                                          "endMs":  201012,
+                                          "image":  "story_24/page12.jpg",
+                                          "text":  "Sus, pe cer, clipi cea dintâi steluță a serii. Rița și Codiță stăteau cuibăriți în iarbă, cu pleoapele grele de atâta joacă, privind cum lumina caldă a felinarului și steluța de sus pâlpâiau blând în amurg. Și, încet-încet, închiseră ochișorii, fericiți, gata de somn."
+                                      }
+                                  ]
+                    },
                     {
                         "id":  "story_19",
                         "title":  "Ariciul și felinarul",
